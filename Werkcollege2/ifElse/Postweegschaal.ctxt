@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Postweegschaal
+comment0.text=\n\ Oefening\ Programmeren\n\ \n\ @author\ Benoit\ Desouter\ et\ al.\ \n\ @version\ oktober\ 2014\n
+comment1.params=
+comment1.target=Postweegschaal()
+comment2.params=gewicht
+comment2.target=int\ geefPrijs(int)
+comment2.text=\n\ Bereken\ de\ prijs\ voor\ een\ postpakket\ met\ het\ opgegeven\ gewicht.\n
+numComments=3

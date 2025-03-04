@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Tester
+comment0.text=\r\n\ Eenvoudige\ test\ klasse\r\n\ Initialiseer\ de\ Dierenkettingmaker,\ print\ de\ inhoud\ en\ maak\ een\ ketting.\r\n\r\n\ @author\ Ellen\ Vanhove\r\n\ @version\ v0.2\r\n
+comment1.params=
+comment1.target=Tester()
+comment2.params=
+comment2.target=void\ kleinTestje()
+comment2.text=\r\n\ er\ is\ maar\ 1\ oplossing\r\n
+comment3.params=
+comment3.target=void\ mediumTest()
+comment3.text=\r\n\ er\ zijn\ meer\ oplossingen\ \r\n
+comment4.params=dier
+comment4.target=void\ groteTest(java.lang.String)
+comment4.text=\r\n\ veel\ opties\ ->\ veel\ oplossingen\r\n
+numComments=5

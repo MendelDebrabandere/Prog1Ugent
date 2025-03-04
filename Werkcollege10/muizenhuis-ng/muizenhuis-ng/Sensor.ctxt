@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Sensor
+comment0.text=\r\n\ Sensor\ die\ detecteert\ wanneer\ er\ een\ muis\ passeert.\r\n
+comment1.params=deur\ isHorizontaal
+comment1.target=Sensor(Deur,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Sensor\ gaat\ aan\ als\ er\ een\ muis\ die\ aanraakt.\r\n
+comment3.params=
+comment3.target=void\ sensorAan()
+comment4.params=
+comment4.target=void\ sensorUit()
+comment5.params=world
+comment5.target=void\ addedToWorld(greenfoot.World)
+numComments=6

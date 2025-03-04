@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Activiteit
+comment1.params=tijd\ beschrijving
+comment1.target=Activiteit(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getTijd()
+comment3.params=
+comment3.target=java.lang.String\ getBeschrijving()
+numComments=4

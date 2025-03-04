@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Terugtrekker
+comment1.params=leeftijd
+comment1.target=Terugtrekker(int)
+comment2.params=
+comment2.target=void\ actBijLeeftijdNul()
+comment3.params=
+comment3.target=void\ actBijLeeftijdNietNul()
+numComments=4

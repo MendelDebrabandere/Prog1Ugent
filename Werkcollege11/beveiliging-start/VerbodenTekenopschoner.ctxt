@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=VerbodenTekenopschoner
+comment1.params=verbodenTekens
+comment1.target=VerbodenTekenopschoner(java.util.List)
+comment2.params=invoer
+comment2.target=java.lang.String\ verwerk(java.lang.String)
+numComments=3

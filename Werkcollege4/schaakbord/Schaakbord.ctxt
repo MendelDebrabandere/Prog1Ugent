@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Schaakbord
+comment0.text=\n\ Oefeningen\ op\ de\ for-lus.\n
+comment1.params=
+comment1.target=Schaakbord()
+comment1.text=\n\ Constructor\n
+comment2.params=
+comment2.target=void\ patroonA()
+comment3.params=
+comment3.target=void\ patroonB()
+comment4.params=
+comment4.target=void\ patroonC()
+comment5.params=
+comment5.target=void\ patroonD()
+comment6.params=
+comment6.target=void\ patroonE()
+comment7.params=
+comment7.target=void\ patroonF()
+numComments=8

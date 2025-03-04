@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Sessie
+comment1.params=
+comment1.target=Sessie()
+comment2.params=interesseInVrouwen
+comment2.target=void\ doeSessie(boolean)
+comment3.params=kandidaat\ interesseInVrouwen
+comment3.target=double\ bepaalMatch(Kandidaat,\ boolean)
+numComments=4

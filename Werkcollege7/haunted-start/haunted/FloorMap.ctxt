@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=FloorMap
+comment0.text=\r\n\ Bevat\ de\ plattegrond\ van\ het\ kasteel\ als\ een\ rooster\ van\ 14x14\ posities.\r\n
+comment1.params=
+comment1.target=FloorMap()
+comment2.params=row\ column
+comment2.target=boolean\ isWall(int,\ int)
+comment2.text=\r\n\ Staat\ er\ een\ muur\ op\ de\ gegeven\ plaats?\r\n
+comment3.params=row\ column
+comment3.target=boolean\ isStartPosition(int,\ int)
+comment3.text=\r\n\ Staat\ er\ een\ startplaats\ op\ de\ gegeven\ plaats?\r\n
+comment4.params=row\ column\ direction
+comment4.target=boolean\ canMove(int,\ int,\ int)
+comment4.text=\r\n\ Kan\ je\ vanuit\ de\ gegeven\ positie\ bewegen\ in\ de\ aangegeven\ richting?\r\n\ @param\ direction\ 0,1,2,3\ voor\ rechts,\ onder,\ links,\ boven\r\n
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ class\ Main\r\n
+comment1.params=
+comment1.target=Main()
+comment2.params=
+comment2.target=void\ test()
+comment3.params=prompt\ verwerker
+comment3.target=java.lang.String\ leesInvoer(java.lang.String,\ Helper)
+comment3.text=\r\n\ Toon\ 'prompt'\ aan\ de\ gebruiker\ en\ laat\ de\ gebruiker\ iets\ intypen.\ Wat\r\n\ de\ gebruiker\ ingetypt\ heeft,\ wordt\ dan\ verwerkt\ door\ 'verwerker'.\ Dit\r\n\ wordt\ herhaald\ tot\ de\ invoer\ van\ de\ gebruiker\ geldig\ is\ volgens\ de\r\n\ gegeven\ 'verwerker'.\r\n\ @return\ De\ verwerkte\ invoer.\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

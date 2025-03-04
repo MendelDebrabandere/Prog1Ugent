@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Kamer
+comment0.text=\r\n\ Een\ kamer\ houdt\ bij\ hoeveel\ muizen\ hij\ bevat,\ en\ steekt\ de\ lamp\ aan\ of\ doet\ de\ lamp\ uit,\ indien\ nodig.\r\n
+comment1.params=lamp\ startAantal
+comment1.target=Kamer(Lamp,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Kamer\r\n
+comment2.params=
+comment2.target=void\ vermeerderMuizen()
+comment3.params=
+comment3.target=void\ verminderMuizen()
+numComments=4

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Laser
+comment1.params=
+comment1.target=Laser()
+comment2.params=x\ y
+comment2.target=void\ setWalls(int,\ int)
+comment3.params=
+comment3.target=void\ shoot()
+comment4.params=
+comment4.target=int\ getHits()
+comment5.params=
+comment5.target=int\ getHorHits()
+comment6.params=
+comment6.target=int\ getVerHits()
+numComments=7

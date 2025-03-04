@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RupsComponent
+comment0.text=\r\n\ Stelt\ \u00E9\u00E9n\ component\ van\ de\ rups\ voor.\r\n\ Een\ component\ beweegt\ in\ een\ bepaalde\ richting.\r\n
+comment1.params=x\ y\ richting
+comment1.target=RupsComponent(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=x
+comment3.target=int\ normalizeerX(int)
+comment4.params=y
+comment4.target=int\ normalizeerY(int)
+numComments=5

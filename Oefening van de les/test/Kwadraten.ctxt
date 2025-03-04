@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Kwadraten
+comment1.params=n
+comment1.target=void\ printKleinereKwadraten(int)
+comment2.params=n
+comment2.target=void\ printAantalKwadraten(int)
+numComments=3

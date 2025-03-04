@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Helper
+comment0.text=\r\n\ Interface\ waaraan\ alle\ helpers\ moeten\ voldoen,\ zowel\ \r\n\ 'controleurs'\ als\ 'opschoners'.\r\n
+comment1.params=invoer
+comment1.target=java.lang.String\ verwerk(java.lang.String)
+comment1.text=\ Controleurs\:\ als\ "invoer"\ aan\ de\ voorwaarden\ voldoet,\ geef\ dan\r\n\ \ "invoer"\ terug.\ Geef\ anders\ "null"\ terug.\r\n\r\n\ \ Opschoners\:\ geef\ de\ opgeschoonde\ versie\ van\ "invoer"\ terug.\r\n
+numComments=2

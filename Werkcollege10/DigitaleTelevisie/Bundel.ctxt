@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Bundel
+comment1.params=prijs\ titel
+comment1.target=Bundel(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getPrijs()
+numComments=3

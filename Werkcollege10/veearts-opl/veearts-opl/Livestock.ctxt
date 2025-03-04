@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Livestock
+comment1.params=name\ owner\ age\ kanBijArts
+comment1.target=Livestock(java.lang.String,\ java.lang.String,\ int,\ boolean)
+comment2.params=
+comment2.target=void\ printInfo()
+numComments=3

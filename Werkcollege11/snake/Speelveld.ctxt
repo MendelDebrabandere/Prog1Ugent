@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Speelveld
+comment0.text=\r\n\ Speelveld\ voor\ het\ Snake-spelletje.\r\n
+comment1.params=
+comment1.target=Speelveld()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

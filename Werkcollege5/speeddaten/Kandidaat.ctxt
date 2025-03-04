@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Kandidaat
+comment1.params=isVrouw
+comment1.target=Kandidaat(boolean)
+comment2.params=
+comment2.target=java.lang.String\ getNaam()
+comment3.params=
+comment3.target=boolean\ isVrouw()
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Dierenkettingmaker
+comment0.text=\r\n\ Maak\ een\ ketting\ van\ dieren\ met\ de\ gegeven\ dieren\r\n
+comment1.params=
+comment1.target=Dierenkettingmaker()
+comment2.params=dieren
+comment2.target=void\ initialiseer(java.lang.String[])
+comment3.params=
+comment3.target=void\ printInhoud()
+comment4.params=startDier
+comment4.target=void\ maakKetting(java.lang.String)
+numComments=5

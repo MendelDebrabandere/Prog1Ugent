@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Boot
+comment1.params=xCoord\ yCoord\ horizontal\ length
+comment1.target=Boot(int,\ int,\ boolean,\ int)
+comment2.params=xHit\ yHit
+comment2.target=boolean\ isRaak(int,\ int)
+comment3.params=other
+comment3.target=boolean\ overlapBoot(Boot)
+comment4.params=xZee\ yZee
+comment4.target=boolean\ pastInZee(int,\ int)
+numComments=5

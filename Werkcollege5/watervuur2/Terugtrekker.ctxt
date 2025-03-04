@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Terugtrekker
+comment1.params=
+comment1.target=Terugtrekker()
+comment2.params=
+comment2.target=void\ keerOm()
+comment3.params=
+comment3.target=void\ glijd()
+comment4.params=richting
+comment4.target=void\ setRichting(int)
+comment5.params=
+comment5.target=void\ act()
+comment6.params=actor
+comment6.target=void\ vervangDoor(greenfoot.Actor)
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Richting
+comment1.params=richting
+comment1.target=int\ getDeltaX(int)
+comment2.params=richting
+comment2.target=int\ getDeltaY(int)
+comment3.params=
+comment3.target=int\ getToetsRichting()
+comment3.text=\r\n\ Geeft\ de\ richting\ terug\ van\ de\ toets\ die\ nu\ is\ ingedrukt,\r\n\ of\ negatief\ getal\ wanneer\ geen\ richtingstoets\ is\ ingedrukt\r\n
+comment4.params=richting1\ richting2
+comment4.target=boolean\ zijnTegengesteld(int,\ int)
+comment4.text=\r\n\ Zijn\ de\ gegeven\ richtingen\ aan\ elkaar\ tegengesteld?\r\n
+numComments=5

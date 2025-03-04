@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Klas
+comment1.params=
+comment1.target=Klas()
+comment2.params=activiteiten
+comment2.target=void\ voerKlassikaleStemmingUit(Activiteit[])
+numComments=3

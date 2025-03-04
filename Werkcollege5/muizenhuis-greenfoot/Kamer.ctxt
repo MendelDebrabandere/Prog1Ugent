@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Kamer
+comment1.params=lamp\ aantal
+comment1.target=Kamer(Lamp,\ int)
+comment2.params=
+comment2.target=void\ vermeerderMuizen()
+comment3.params=
+comment3.target=void\ verminderMuizen()
+comment4.params=
+comment4.target=void\ updateLamp()
+numComments=5

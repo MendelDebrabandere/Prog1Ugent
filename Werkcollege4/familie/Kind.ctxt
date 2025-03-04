@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Kind
+comment0.text=\n\ Write\ a\ description\ of\ class\ Kind\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=m
+comment1.target=Kind(Moeder)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Kind\n
+comment2.params=
+comment2.target=java.lang.String\ geefFamilienaam()
+numComments=3

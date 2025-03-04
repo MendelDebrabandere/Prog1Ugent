@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Schaakklok()
+comment0.text=\n\ Constructor.\ Initialiseert\ de\ velden\ van\ dit\ object.\n
+comment1.params=
+comment1.target=void\ herstart()
+comment1.text=\n\ Wordt\ opgeroepen\ wanneer\ een\ nieuwe\ wedstrijd\ begint.\n
+comment2.params=
+comment2.target=void\ ontvangPuls()
+comment2.text=\n\ Wordt\ elke\ seconde\ opgeroepen.\n
+comment3.params=s
+comment3.target=java.lang.String\ geefTijd(int)
+comment3.text=\n\ Geef\ terug\ wat\ er\ op\ het\ display\ moet\ komen\ voor\ de\ opgegeven\ speler\n\ @param\ s\ 1\ wanneer\ je\ wit\ bedoelt,\ 2\ voor\ zwart\n
+comment4.params=
+comment4.target=void\ wisselSpeler()
+comment4.text=\n\ Geeft\ aan\ dat\ er\ een\ andere\ speler\ aan\ zet\ is\n
+numComments=5

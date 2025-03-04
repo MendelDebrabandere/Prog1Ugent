@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Lamp
+comment1.params=aan
+comment1.target=Lamp(boolean)
+comment2.params=aan
+comment2.target=void\ toggleLamp(boolean)
+numComments=3

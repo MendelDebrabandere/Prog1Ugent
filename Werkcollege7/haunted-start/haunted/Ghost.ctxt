@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Ghost
+comment0.text=\r\n\ Een\ spook\ dat\ door\ het\ kasteel\ dwaalt.\r\n
+comment1.params=map
+comment1.target=Ghost(FloorMap)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Bij\ elk\ kruispunt\ kan\ het\ spook\ een\ andere\ (willekeurige)\ richting\ nemen.\ \r\n\ Het\ spook\ keert\ echter\ enkel\ op\ zijn\ stappen\ terug\ als\ het\ niet\ anders\ kan.\r\n
+comment3.params=
+comment3.target=void\ calculateNextDir()
+comment4.params=
+comment4.target=void\ recalculatePosition()
+comment5.params=
+comment5.target=void\ move()
+numComments=6

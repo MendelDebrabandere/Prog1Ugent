@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Leerling
+comment1.params=
+comment1.target=Leerling()
+comment2.params=activiteiten
+comment2.target=void\ brengStemUit(Activiteit[])
+numComments=3

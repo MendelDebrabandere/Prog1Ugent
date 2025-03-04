@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Account
+comment0.text=\n\ Een\ object\ van\ deze\ klasse\ stelt\ een\ bankrekening\ voor.\ De\ stand\n\ van\ deze\ rekening\ mag\ nooit\ negatief\ zijn.\ Met\ de\ methoden\n\ van\ deze\ klasse\ kan\ je\ de\ stand\ van\ de\ rekening\ opvragen\ en\ geld\ storten\n\ of\ afhalen.\n
+comment1.params=
+comment1.target=Account()
+comment1.text=\n\ Een\ nieuwe\ rekening\ bevat\ 0\ EUROcent\n
+comment2.params=
+comment2.target=int\ getBalance()
+comment2.text=\n\ Retourneer\ de\ stand\ van\ deze\ rekening\n
+comment3.params=amount
+comment3.target=void\ deposit(int)
+comment3.text=\n\ Stort\ het\ gegeven\ bedrag\ op\ deze\ rekening.\n
+comment4.params=amount
+comment4.target=void\ withdraw(int)
+comment4.text=\n\ Haal\ het\ gegeven\ bedrag\ van\ deze\ rekening\ af.\ Staat\ er\ niet\ genoeg\n\ geld\ op\ de\ rekening,\ dan\ doe\ je\ helemaal\ niets.\n
+comment5.params=amount\ destination
+comment5.target=void\ transfer(int,\ Account)
+comment5.text=\n\ Schrijf\ het\ gegeven\ bedrag\ over\ van\ deze\ rekening\ \n\ naar\ de\ 'destination'-rekening.\ Als\ er\ echter\ op\ deze\ rekening\ niet\ \n\ genoeg\ geld\ staat,\ dan\ doe\ je\ niets.\n
+numComments=6

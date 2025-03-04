@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Veterinarian
+comment0.text=\n\ Veearts\ (en\ zijn\ praktijk)\n
+comment1.params=name
+comment1.target=Veterinarian(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Veterinarian\n
+comment2.params=patient
+comment2.target=void\ newPatient(Animal)
+comment3.params=
+comment3.target=void\ printPatients()
+comment4.params=
+comment4.target=int\ numberOfIllPatients()
+comment5.params=
+comment5.target=Animal\ getOldestIllAnimal()
+numComments=6

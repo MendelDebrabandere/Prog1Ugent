@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Sensor
+comment0.text=\n\ Sensor\ die\ detecteert\ wanneer\ er\ een\ muis\ passeert.\n
+comment1.params=deur\ isLinks\ isHorizontaal
+comment1.target=Sensor(Deur,\ boolean,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

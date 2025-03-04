@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Activiteit
+comment1.params=naam
+comment1.target=Activiteit(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNaam()
+comment3.params=
+comment3.target=int\ getAantalStemmen()
+comment4.params=
+comment4.target=void\ stem()
+numComments=5

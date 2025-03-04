@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Kamer
+comment0.text=\n\ Stelt\ een\ kamer\ voor\ in\ een\ (muizen)huis.\ Elke\ kamer\ heeft\ een\ naam\ en\ houdt\ bij\n\ hoeveel\ muizen\ er\ in\ die\ kamer\ aanwezig\ zijn.\ \n
+comment1.params=naam\ startAantal
+comment1.target=Kamer(java.lang.String,\ int)
+comment1.text=\n\ Een\ nieuwe\ kamer.\n\ @param\ naam\ Naam\ van\ de\ kamer,\ bijvoorbeeld\ "de\ keuken"\n\ @param\ startAantal\ Aantal\ muizen\ dat\ reeds\ aanwezig\ is\ in\ de\ kamer.\n
+comment2.params=
+comment2.target=void\ vermeerderMuizen()
+comment3.params=
+comment3.target=void\ verminderMuizen()
+numComments=4

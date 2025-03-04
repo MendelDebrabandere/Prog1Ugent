@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MoveableActor
+comment1.params=canPush\ isPushable\ rotateWithMovement
+comment1.target=MoveableActor(boolean,\ boolean,\ boolean)
+comment2.params=
+comment2.target=boolean\ getIsPushable()
+comment3.params=dir
+comment3.target=boolean\ moveObj(MoveableActor.MoveDir)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ onMoved()
+numComments=6

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Schaakklok
+comment0.text=\n\ Hoofdklasse\ van\ de\ toepassing.\ Vormt\ de\ interface\ met\ de\ elektronica\ van\ een\ schaakklok.\n\ \n\ 2016\ (c)\ Kris\ Coolsaet\ Universiteit\ Gent\n
+comment1.params=
+comment1.target=Schaakklok()
+comment1.text=\n\ Constructor.\ Initialiseert\ de\ velden\ van\ dit\ object.\n
+comment2.params=
+comment2.target=void\ herstart()
+comment2.text=\n\ Wordt\ opgeroepen\ wanneer\ een\ nieuwe\ wedstrijd\ begint.\n
+comment3.params=
+comment3.target=void\ ontvangPuls()
+comment3.text=\n\ Wordt\ elke\ seconde\ opgeroepen.\n
+comment4.params=s
+comment4.target=java.lang.String\ geefTijd(int)
+comment4.text=\n\ Geef\ terug\ wat\ er\ op\ het\ display\ moet\ komen\ voor\ de\ opgegeven\ speler\n\ @param\ s\ 1\ wanneer\ je\ wit\ bedoelt,\ 2\ voor\ zwart\n
+comment5.params=
+comment5.target=void\ wisselSpeler()
+comment5.text=\n\ Geeft\ aan\ dat\ er\ een\ andere\ speler\ aan\ zet\ is\n
+comment6.params=
+comment6.target=void\ stop()
+comment7.params=
+comment7.target=int\ welkLampje()
+numComments=8

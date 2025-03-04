@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Lamp
+comment0.text=\r\n\ Een\ lamp\ is\ ofwel\ aan\ of\ uit.\r\n
+comment1.params=aan
+comment1.target=Lamp(boolean)
+comment2.params=
+comment2.target=void\ aan()
+comment3.params=
+comment3.target=void\ uit()
+numComments=4

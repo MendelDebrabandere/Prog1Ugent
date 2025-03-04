@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=RandomTester
+comment1.params=
+comment1.target=RandomTester()
+comment2.params=
+comment2.target=void\ printOneRandom()
+comment3.params=howMany
+comment3.target=void\ printMultiRandom(int)
+comment4.params=
+comment4.target=int\ throwDice()
+comment5.params=list
+comment5.target=java.lang.String\ getResponse(java.util.ArrayList)
+comment6.params=max
+comment6.target=int\ max(int)
+comment7.params=min\ max
+comment7.target=int\ minmax(int,\ int)
+numComments=8

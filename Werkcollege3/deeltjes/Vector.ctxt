@@ -1,0 +1,28 @@
+#BlueJ class context
+comment0.target=Vector
+comment0.text=\n\ Stelt\ een\ vector\ voor\ in\ twee\ dimensies\n
+comment1.params=x\ y
+comment1.target=Vector(double,\ double)
+comment1.text=\n\ Maak\ een\ nieuwe\ vector\ aan\ met\ de\ gegevenX-\ en\ Y-co\u00F6rdinaten\n
+comment2.params=
+comment2.target=int\ getIntX()
+comment2.text=\n\ De\ X-co\u00F6rdinaat,\ afgerond\ tot\ een\ geheel\ getal\n
+comment3.params=
+comment3.target=int\ getIntY()
+comment3.text=\n\ De\ y-co\u00F6rdinaat,\ afgerond\ tot\ een\ geheel\ getal\n
+comment4.params=
+comment4.target=double\ norm()
+comment4.text=\n\ De\ norm\ (\=lengte)\ van\ de\ gegeven\ vector\n
+comment5.params=other
+comment5.target=void\ add(Vector)
+comment5.text=\n\ Tel\ de\ gegeven\ vector\ op\ bij\ de\ huidige.\ Verandert\ de\ huidige\ vector.\n
+comment6.params=factor
+comment6.target=void\ scale(double)
+comment6.text=\n\ Vermenigvuldig\ deze\ vector\ met\ de\ gegeven\ scalaire\ factor.\ \ \n\ Verandert\ de\ huidige\ vector.\n
+comment7.params=newNorm
+comment7.target=void\ scaleToNorm(double)
+comment7.text=\n\ Herschaal\ de\ huidige\ vector\ zodanig\ dat\ hij\ de\ opgegeven\ lengte\ heeft.\ \n\ Verandert\ de\ huidige\ vector.\n
+comment8.params=other
+comment8.target=Vector\ minus(Vector)
+comment8.text=\n\ Geef\ een\ nieuwe\ vector\ terug\ die\ overeenkomt\ met\ this\ -\ other.\ Laat\ de\ huidige\n\ vector\ ongemoeid\!\n
+numComments=9

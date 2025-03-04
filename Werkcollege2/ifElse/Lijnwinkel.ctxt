@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Lijnwinkel
+comment0.text=\n\ Oefening\ Programmeren.\n\ \n\ @author\ Benoit\ Desouter\ et\ al.\n\ @version\ oktober\ 2014\n
+comment1.params=
+comment1.target=Lijnwinkel()
+comment2.params=aantal
+comment2.target=int\ geefKostprijs(int)
+comment2.text=\n\ Bereken\ de\ totale\ kostprijs\ van\ de\ kaartjes.\n
+numComments=3

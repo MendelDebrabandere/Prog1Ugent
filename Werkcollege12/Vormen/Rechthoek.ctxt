@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Rechthoek
+comment1.params=
+comment1.target=Rechthoek()
+comment2.params=
+comment2.target=int\ aantalHoeken()
+comment3.params=
+comment3.target=double\ oppervlakte()
+numComments=4

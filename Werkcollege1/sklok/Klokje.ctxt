@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Klokje()
+comment0.text=\n\ Constructor.\ Initialiseert\ de\ velden\ van\ dit\ object.\n
+comment1.params=
+comment1.target=void\ herstart()
+comment1.text=\n\ Geeft\ aan\ dat\ de\ minuten\ en\ seconden\ teruggezet\ moeten\ worden\ naar\n\ de\ beginwaarde\ van\ een\ wedstrijd.\n
+comment2.params=
+comment2.target=void\ ontvangPuls()
+comment2.text=\n\ Wordt\ elke\ seconde\ opgeroepen\ voor\ de\ klok\ van\ de\ speler\ die\ aan\ zet\ is,\n
+comment3.params=
+comment3.target=java.lang.String\ geefTijd()
+comment3.text=\n\ Geef\ de\ tijd\ terug\ die\ door\ dit\ klokje\ wordt\ voorgesteld\n
+numComments=4

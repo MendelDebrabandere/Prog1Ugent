@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Film
+comment1.params=prijs\ titel\ seizoen
+comment1.target=Film(int,\ java.lang.String,\ int)
+numComments=2

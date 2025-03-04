@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Deeltje
+comment0.text=\n\ Write\ a\ description\ of\ class\ Deeltje\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=lading
+comment1.target=Deeltje(boolean)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Deeltje\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=Vector\ computeForce()
+comment4.params=
+comment4.target=Vector\ getPreciseLocation()
+comment5.params=
+comment5.target=boolean\ getLading()
+numComments=6

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Klokje
+comment0.text=\n\ Objecten\ van\ deze\ klasse\ besturen\ \u00E9\u00E9n\ van\ de\ twee\ klokjes\ van\ de\ schaakklok.\n\ \n\ 2016\ (c)\ Kris\ Coolsaet\ Universiteit\ Gent\n
+comment1.params=
+comment1.target=Klokje()
+comment1.text=\n\ Constructor.\ Initialiseert\ de\ velden\ van\ dit\ object.\n
+comment2.params=
+comment2.target=void\ herstart()
+comment2.text=\n\ Geeft\ aan\ dat\ de\ minuten\ en\ seconden\ teruggezet\ moeten\ worden\ naar\n\ de\ beginwaarde\ van\ een\ wedstrijd.\n
+comment3.params=
+comment3.target=void\ ontvangPuls()
+comment3.text=\n\ Wordt\ elke\ seconde\ opgeroepen\ voor\ de\ klok\ van\ de\ speler\ die\ aan\ zet\ is,\n
+comment4.params=
+comment4.target=java.lang.String\ geefTijd()
+comment4.text=\n\ Geef\ de\ tijd\ terug\ die\ door\ dit\ klokje\ wordt\ voorgesteld\n
+comment5.params=tijd
+comment5.target=void\ voegTijdToe(int)
+comment6.params=
+comment6.target=boolean\ tijdIsOp()
+numComments=7

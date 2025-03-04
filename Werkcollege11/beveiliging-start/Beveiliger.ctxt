@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Beveiliger
+comment0.text=\r\n\ Een\ beveiliger\ verwerkt\ een\ string\ door\ die\ aan\ verschillende\ helpers\ door\ te\ geven.\r\n
+comment1.params=helpers
+comment1.target=Beveiliger(java.util.List)
+comment2.params=str
+comment2.target=java.lang.String\ verwerk(java.lang.String)
+numComments=3

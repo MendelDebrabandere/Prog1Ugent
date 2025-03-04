@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=klas
+comment0.text=\r\n\ Deze\ klasse\ stelt\ een\ klas\ van\ 6\ leerlingen\ voor.\r\n\ \r\n
+comment1.params=
+comment1.target=klas()
+comment1.text=contstructor
+comment2.params=
+comment2.target=int\ getAantal()
+comment3.params=index\ naam\ procent
+comment3.target=void\ setLeerling(int,\ java.lang.String,\ int)
+comment4.params=
+comment4.target=int\ getGemiddelde()
+comment4.text=Geef\ het\ gemiddelde\ procent\ van\ de\ klas\ terug
+comment5.params=leerlingnummer\ dag
+comment5.target=void\ setTeLaat(int,\ java.lang.String)
+comment5.text=\r\n\ De\ leerling\ met\ nummer\ 'leerlingnummer'\ van\ deze\ klas\ is\ \r\n\ te\ laat\ op\ dag\ 'dag'.\r\n
+comment6.params=
+comment6.target=int\ geefDagMeestTeLaat()
+comment6.text=\r\n\ Geef\ het\ dagnummer\ terug\ van\ de\ dag\ waarop\ de\ meeste\ \r\n\ leerlingen\ het\ meest\ te\ laat\ komen.\r\n
+numComments=7

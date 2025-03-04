@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cijferpaar()
+comment0.text=\n\ Constructor.\ Initialiseert\ de\ velden\ van\ dit\ object.\n
+comment1.params=w
+comment1.target=void\ zetWaarde(int)
+comment1.text=\n\ Stelt\ een\ nieuwe\ waarde\ in\ voor\ de\ teller.\n\ @param\ w\ nieuwe\ waarde\n
+comment2.params=
+comment2.target=void\ verminderMet1()
+comment2.text=\n\ Verminder\ de\ waarde\ van\ de\ huidige\ teller\ met\ 1\n
+comment3.params=
+comment3.target=int\ geefWaarde()
+comment3.text=\n\ De\ huidige\ waarde\ van\ de\ teller\n
+comment4.params=
+comment4.target=java.lang.String\ geefTijd()
+comment4.text=\n\ Geef\ de\ huidige\ waarde\ terug\ als\ een\ string\ van\ twee\ cijfers.\n
+numComments=5

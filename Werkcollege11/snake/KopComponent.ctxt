@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=KopComponent
+comment0.text=\r\n\ Speciale\ RupsComponent\ die\ de\ kop\ van\ de\ rups\ voorstelt.\r\n\ De\ kop\ van\ de\ rups\ staat\ in\ voor\ het\ verwerken\ van\ de\ toetsenbordinput\r\n\ en\ houdt\ ook\ een\ lijst\ bij\ met\ alle\ andere\ componenten\ van\ de\ rups.\r\n
+comment1.params=x\ y
+comment1.target=KopComponent(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ controleerGameOver()
+comment4.params=
+comment4.target=void\ richtingenOpschuiven()
+comment5.params=
+comment5.target=void\ besturingToetsenbord()
+comment6.params=
+comment6.target=void\ groei()
+numComments=7

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pensioenregeling
+comment0.text=\n\ Oefening\ Programmeren.\n\ \n\ @author\ Benoit\ Desouter\ et\ al.\n\ @version\ oktober\ 2014\n
+comment1.params=
+comment1.target=Pensioenregeling()
+comment2.params=leeftijd\ geslacht
+comment2.target=int\ geefPensioen(int,\ boolean)
+comment2.text=\n\ Bereken\ het\ pensioen\ op\ basis\ van\ de\ gegeven\ leeftijd.\n\ Het\ tweede\ argument\:\ true\ voor\ man,\ false\ voor\ vrouw.\n
+numComments=3

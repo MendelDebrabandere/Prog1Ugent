@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Sterretjes
+comment1.params=n
+comment1.target=void\ sterretjes(int)
+comment2.params=n
+comment2.target=void\ kerstboom(int)
+comment3.params=n
+comment3.target=void\ dambord(int)
+numComments=4

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Muis
+comment0.text=\n\ Write\ a\ description\ of\ class\ Muis\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=x\ y\ deuren\ deurNaarKamers\ huidigeKamer\ muizen\ kamerLocations\ deurLocations
+comment1.target=Muis(int,\ int,\ java.util.Map,\ java.util.Map,\ Kamer,\ java.util.List,\ java.util.Map,\ java.util.Map)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Muis\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=other
+comment4.target=double\ distance(Muis)
+comment5.params=targetX\ targetY
+comment5.target=double\ distance(double,\ double)
+numComments=6

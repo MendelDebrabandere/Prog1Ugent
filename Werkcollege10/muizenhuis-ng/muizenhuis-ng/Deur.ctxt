@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Deur
+comment0.text=\r\n\ Deur\ met\ sensoren\ die\ kan\ detecteren\ hoe\ ver\ een\ muis\ in\ de\ deur\ staat.\r\n\r\n\ @author\ Rien\ Maertens\r\n
+comment1.params=links\ rechts
+comment1.target=Deur(Kamer,\ Kamer)
+comment2.params=
+comment2.target=void\ muisVanLinksNaarRechts()
+comment2.text=\r\n\ Update\ het\ aantal\ muizen\ in\ de\ kamers\ omdat\ een\ muis\ van\ de\ linkerkamer\r\n\ naar\ de\ rechterkamer\ is\ verplaatst.\r\n
+comment3.params=
+comment3.target=void\ muisVanRechtsNaarLinks()
+comment3.text=\r\n\ Update\ het\ aantal\ muizen\ in\ de\ kamers\ omdat\ een\ muis\ van\ de\ rechterkamer\r\n\ naar\ de\ linkerkamer\ is\ verplaatst.\r\n
+comment4.params=
+comment4.target=void\ linkerSensorAan()
+comment4.text=\r\n\ De\ linker\ sensor\ detecteert\ een\ muis.\r\n\ De\ waarde\ van\ de\ sensor\ en\ de\ toestand\ van\ de\ deur\ wordt\ aangepast.\r\n
+comment5.params=
+comment5.target=void\ linkerSensorUit()
+comment5.text=\r\n\ De\ linker\ sensor\ detecteert\ geen\ muis.\r\n\ De\ waarde\ van\ de\ sensor\ en\ de\ toestand\ van\ de\ deur\ wordt\ aangepast.\r\n
+comment6.params=
+comment6.target=void\ rechterSensorAan()
+comment6.text=\r\n\ De\ rechter\ sensor\ detecteert\ een\ muis.\r\n\ De\ waarde\ van\ de\ sensor\ en\ de\ toestand\ van\ de\ deur\ wordt\ aangepast.\r\n
+comment7.params=
+comment7.target=void\ rechterSensorUit()
+comment7.text=\r\n\ De\ rechter\ sensor\ detecteert\ geen\ muis.\r\n\ De\ waarde\ van\ de\ sensor\ en\ de\ toestand\ van\ de\ deur\ wordt\ aangepast.\r\n
+numComments=8

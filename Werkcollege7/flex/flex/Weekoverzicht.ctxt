@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Weekoverzicht
+comment1.params=
+comment1.target=Weekoverzicht()
+comment2.params=activiteit
+comment2.target=void\ logActiviteit(Activiteit)
+comment3.params=dag
+comment3.target=Activiteit\ getActiviteitOpDag(int)
+comment4.params=dag
+comment4.target=void\ verwijderActiviteitOpDag(int)
+comment5.params=
+comment5.target=boolean\ isVoldoendeGewerkt()
+numComments=6

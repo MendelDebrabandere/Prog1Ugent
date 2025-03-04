@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Grootmoeder
+comment0.text=\n\ Write\ a\ description\ of\ class\ Grootmoeder\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=familienaam
+comment1.target=Grootmoeder(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Grootmoeder\n
+comment2.params=
+comment2.target=java.lang.String\ geefFamilienaam()
+comment3.params=
+comment3.target=Moeder\ geefDochter()
+comment4.params=
+comment4.target=Kind\ geefKleindochter()
+numComments=5

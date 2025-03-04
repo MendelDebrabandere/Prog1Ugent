@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Cijferpaar
+comment0.text=\n\ Objecten\ van\ deze\ klasse\ zijn\ verantwoordlijk\ voor\ \u00E9\u00E9n\ paar\ cijfers\ dat\n\ onderdeel\ vormt\ van\ een\ display,\ hetzij\ het\ secondengedeelte,\ hetzij\ het\ minutengedeelte\n\ \n\ 2016\ (c)\ Kris\ Coolsaet\ Universiteit\ Gent\n
+comment1.params=
+comment1.target=Cijferpaar()
+comment1.text=\n\ Constructor.\ Initialiseert\ de\ velden\ van\ dit\ object.\n
+comment2.params=w
+comment2.target=void\ zetWaarde(int)
+comment2.text=\n\ Stelt\ een\ nieuwe\ waarde\ in\ voor\ de\ teller.\n\ @param\ w\ nieuwe\ waarde\n
+comment3.params=
+comment3.target=void\ verminderMet1()
+comment3.text=\n\ Verminder\ de\ waarde\ van\ de\ huidige\ teller\ met\ 1\n
+comment4.params=
+comment4.target=int\ geefWaarde()
+comment4.text=\n\ De\ huidige\ waarde\ van\ de\ teller\n
+comment5.params=
+comment5.target=java.lang.String\ geefTijd()
+comment5.text=\n\ Geef\ de\ huidige\ waarde\ terug\ als\ een\ string\ van\ twee\ cijfers.\n
+numComments=6
